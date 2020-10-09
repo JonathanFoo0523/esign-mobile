@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## esign-mobile
+
+This is a helper application for the main application `esign`. It provides a seamless way for users to sign documents on their mobile phone by scanning QRCode in `esign`.
 
 ## Available Scripts
 
